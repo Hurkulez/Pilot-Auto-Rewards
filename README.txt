@@ -2,7 +2,7 @@ This module created to be used only with phpVMS (www.phpvms.net).
 
 ///////////////////////////////////////////////
 ///          PilotAwardsSystem v1.5         ///
-///        Author Modding Unllimited        ///
+///        Author Modding Unlimited        ///
 ///            Packed at 22051/2016         ///
 ///  Copyright (c) 2016, Modding Unlimited  ///
 ///////////////////////////////////////////////
